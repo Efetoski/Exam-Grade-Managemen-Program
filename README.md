@@ -1,8 +1,5 @@
 # Exam-Grade-Management-Program
-Write a program to provide some grade management software for a university. Download
-and edit the files TUT_results.ipynb python code and TUT_datafile.py from
-Blackboard to proceed with this exercise. Do not be afraid to initially experiment with the
-files to see how they work!
+Write a program to provide some grade management software for a university. 
 1. Define a function that takes the results list as an argument and prints out a pass list,
 printing each student’s name, score and grading (use distinction 70%, merit 60% and
 pass 40% grading schema).
